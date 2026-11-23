@@ -5,11 +5,16 @@
 > **Target Roles:** APM, PM-1, Growth PM, Technical PM, Digital PM, Product Operations & Strategy (India)
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Active%20WIP%20%26%20Iterating-yellow.svg)](#)
 [![Google Gemini API](https://img.shields.io/badge/Gemini-2.5%20%2F%20Flash-orange.svg)](https://ai.google.dev/)
 [![LaTeX Engine](https://img.shields.io/badge/LaTeX-pdflatex%20%7C%20tectonic-brightgreen.svg)](https://www.latex-project.org/)
 [![Streamlit UI](https://img.shields.io/badge/UI-Streamlit%20Dashboard-FF4B4B.svg)](https://streamlit.io/)
 [![Gmail REST API](https://img.shields.io/badge/API-Gmail%20OAuth%202.0-red.svg)](https://developers.google.com/gmail/api)
 [![Anti-Ban Architecture](https://img.shields.io/badge/Security-Anti--Ban%20Compliant-success.svg)](#non-negotiable-product-guardrails)
+
+> [!NOTE]
+> **🚧 Active Work in Progress (WIP):**  
+> This system is an active product under continuous development and live iteration. The discovery channels, prompt engineering strategies, ranking models, and automated workflows are actively calibrated and expanded daily.
 
 ---
 
