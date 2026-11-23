@@ -1,0 +1,239 @@
+{
+  "_meta": {
+    "candidate": "Jaivik Chauhan",
+    "email": "jaivik.chauhan.2026@gmail.com",
+    "linkedin": "linkedin.com/in/jaivik-chauhan",
+    "github": "github.com/jaiviksedsvit-coder",
+    "phone": "+91-7016175705",
+    "location": "Mumbai, India",
+    "last_updated": "2026-11-17",
+    "canonical_source": "Jaivik-Chauhan-ProdMan_04102026_2.pdf",
+    "structure_note": "Structured by section. 11 IQVIA bullets, 5 Bain, 3 JLL, 4 Projects. All bullets verbatim."
+  },
+
+  "education": [
+    {
+      "id": "edu_iim",
+      "degree_row": "Master of Business Administration (MBA)",
+      "institution": "Indian Institute of Management (IIM), Indore",
+      "graduation": "2025",
+      "score": "81.9%",
+      "tags": ["mba", "iim", "general_management", "top_tier_mba"]
+    },
+    {
+      "id": "edu_vit",
+      "degree_row": "Bachelor of Technology (B.Tech), Information Technology",
+      "institution": "Vellore Institute of Technology (VIT), Vellore",
+      "graduation": "2023",
+      "score": "91.9%",
+      "tags": ["btech", "engineering", "information_technology", "vit"]
+    }
+  ],
+
+  "iqvia_bullets": [
+    {
+      "id": "iqvia_0to1_mapping",
+      "rank_weight": 10,
+      "tags": ["product", "0_to_1", "mvp", "gtm", "strategy", "b2b", "healthcare", "product_management", "discovery", "roadmap"],
+      "text": "Led **0-to-1 development** of an internal doctor-chemist mapping product powering client go-to-market territory planning; owned problem definition and requirements, scoped a 1-month MVP, and delivered **~50% higher mapping accuracy**."
+    },
+    {
+      "id": "iqvia_llm_excel_query",
+      "rank_weight": 10,
+      "tags": ["product", "ai", "llm", "prototyping", "technical", "0_to_1", "genai", "product_management", "analytics", "natural_language", "saas"],
+      "text": "Prototyped an internal natural-language querying tool integrating LLM APIs over large unstructured Excel datasets, enabling non-technical stakeholders to extract analytical insights on demand; **adopted by 100+ users**."
+    },
+    {
+      "id": "iqvia_genai_news_workflow",
+      "rank_weight": 9,
+      "tags": ["ai", "genai", "automation", "analytics", "technical", "product", "competitive_intelligence", "healthcare", "workflow", "saas"],
+      "text": "Reduced competitive-intelligence research time by **85%** for a **40-member consulting team** by engineering an automated Generative AI workflow that extracts, filters, and summarizes strategic updates from pharma news feeds."
+    },
+    {
+      "id": "iqvia_powerbi_brand_health",
+      "rank_weight": 9,
+      "tags": ["analytics", "data", "power_bi", "dashboard", "product", "healthcare", "sql", "kpi", "data_driven", "saas"],
+      "text": "Designed a Brand Health Tracking dashboard in Power BI monitoring **10+ commercial KPIs**, integrating quantitative sales data with qualitative physician surveys so stakeholders could diagnose the root causes behind prescription and sales trends."
+    },
+    {
+      "id": "iqvia_hcp_targeting",
+      "rank_weight": 9,
+      "tags": ["strategy", "growth", "healthcare", "b2b", "segmentation", "revenue", "gtm", "analytics", "targeting"],
+      "text": "Executed a Healthcare Professional (HCP) targeting and segmentation exercise across **30+ cities** using product adoption KPIs and prescriber potential, generating **Rs. 15 Cr+ incremental revenue** within 8 months and reallocating commercial coverage."
+    },
+    {
+      "id": "iqvia_chemist_segmentation",
+      "rank_weight": 8,
+      "tags": ["strategy", "growth", "healthcare", "b2b", "segmentation", "analytics", "gtm", "market_penetration"],
+      "text": "Improved market penetration by **15%** for a top Indian pharma client by owning a chemist segmentation and targeting engagement across 4 therapy areas in 5 cities, identifying high-potential outlets and coverage gaps to redirect field resources."
+    },
+    {
+      "id": "iqvia_loe_defense_strategy",
+      "rank_weight": 7,
+      "tags": ["strategy", "healthcare", "competitive_intelligence", "pricing", "revenue_modelling", "gtm", "lifecycle"],
+      "text": "Crafted lifecycle management strategy, leading to **~35% revenue protection**, for a flagship **Rs. 500 Cr franchise** facing Loss of Exclusivity (LoE); integrated pricing analysis, revenue forecasting and competitive GTM benchmarking for defense strategy."
+    },
+    {
+      "id": "iqvia_portfolio_expansion",
+      "rank_weight": 7,
+      "tags": ["strategy", "growth", "healthcare", "market_sizing", "prioritization", "b2b", "portfolio"],
+      "text": "Contributed to a product portfolio expansion strategy, unlocking **Rs. 100+ Cr in incremental revenues** for a pharma client; designed a prioritization framework to shortlist 5 acquisition-ready brands based on segment growth and company synergy."
+    },
+    {
+      "id": "iqvia_biologic_market_entry",
+      "rank_weight": 7,
+      "tags": ["strategy", "market_sizing", "healthcare", "growth", "revenue_modelling", "b2b", "market_entry"],
+      "text": "Identified and projected a **$50M revenue opportunity** over 5 years for a global blockbuster biologic's India market entry by mapping end-to-end patient treatment journey, sizing the addressable market and building a comprehensive growth model."
+    },
+    {
+      "id": "iqvia_derma_market_landscape",
+      "rank_weight": 6,
+      "tags": ["strategy", "market_sizing", "healthcare", "market_research", "growth", "whitespace"],
+      "text": "Facilitated market entry into **10+ high-growth segments** valued at **Rs. 2k+ Cr** by conducting a comprehensive market landscape of the Rs. 17k Cr Indian derma-cosmeceuticals sector, identifying underserved whitespace opportunities for portfolio augmentation."
+    },
+    {
+      "id": "iqvia_oncology_revenue_forecast",
+      "rank_weight": 6,
+      "tags": ["strategy", "healthcare", "revenue_modelling", "analytics", "market_sizing", "forecasting", "oncology"],
+      "text": "Developed a 5-year strategic revenue forecast for an oncology portfolio, projecting **$22M in peak sales**; integrated epidemiology trends and competitive risks to support commercialization strategy, investment planning and cross-functional team sizing."
+    }
+  ],
+
+  "bain_bullets": [
+    {
+      "id": "bain_enterprise_storage_positioning",
+      "rank_weight": 8,
+      "tags": ["strategy", "product", "gtm", "b2b", "analytics", "market_research", "cloud", "positioning", "enterprise"],
+      "text": "Refined product positioning and value proposition for a **$20B enterprise storage client** from 10+ customer survey insights."
+    },
+    {
+      "id": "bain_ai_studio_gtm",
+      "rank_weight": 9,
+      "tags": ["strategy", "product", "gtm", "ai", "analytics", "benchmarking", "cloud", "platform"],
+      "text": "Shaped GTM and product positioning for the client's **AI Studio platform** using survey analytics across **300+ C-suite respondents**."
+    },
+    {
+      "id": "bain_user_segmentation",
+      "rank_weight": 8,
+      "tags": ["analytics", "segmentation", "product", "user_research", "strategy", "cloud", "personas"],
+      "text": "Segmented an IT firm's user base into **behavioral personas** that informed targeted product strategy and roadmap priorities."
+    },
+    {
+      "id": "bain_ai_ml_benchmarking",
+      "rank_weight": 7,
+      "tags": ["analytics", "benchmarking", "cloud", "ai", "strategy", "competitive_intelligence", "ml"],
+      "text": "Benchmarked **20+ AI/ML, GPUaaS, CSPs companies** across 5+ valuation parameters to guide investment assessments for a PE client."
+    },
+    {
+      "id": "bain_workflow_automation",
+      "rank_weight": 6,
+      "tags": ["automation", "technical", "product", "operations", "efficiency", "workflow"],
+      "text": "Designed an automated internal workflow system, streamlining cross-functional execution and **improving efficiency by ~25%**."
+    }
+  ],
+
+  "jll_bullets": [
+    {
+      "id": "jll_user_stories",
+      "rank_weight": 9,
+      "tags": ["product", "engineering", "user_stories", "qa", "requirements", "technical", "sde", "acceptance_criteria", "uat"],
+      "text": "Partnered with product, engineering, and QA stakeholders to translate business requirements into **80+ validated user stories**, defining acceptance criteria and an executable test strategy across 4+ UAT cycles ahead of release."
+    },
+    {
+      "id": "jll_use_case_coverage",
+      "rank_weight": 8,
+      "tags": ["product", "engineering", "qa", "technical", "sde", "product_management", "testing", "specification"],
+      "text": "Designed and executed **100+ use-case scenarios** across core product workflows, covering **30% of the product's business requirements** and surfacing gaps between written specification and shipped behavior."
+    },
+    {
+      "id": "jll_qa_automation",
+      "rank_weight": 8,
+      "tags": ["technical", "engineering", "automation", "qa", "sde", "efficiency", "defects", "release"],
+      "text": "Owned 50% of QA scope, converting user feedback and business requirements into **70+ logged defects** prioritized by release risk; automated 40% of legacy workflows, cutting **manual testing effort by 50%**."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "project_uber_prd",
+      "default_rank": 1,
+      "title": "Uber India - Product Improvement Case Study",
+      "url": "https://jaiviksedsvit-coder.github.io/uber-india-smart-route-selection/prototype/index.html",
+      "link_label": "Interactive Prototype",
+      "tags": ["product", "prd", "0_to_1", "product_management", "prototyping", "user_research", "competitive_intelligence", "gtm", "consumer", "case_study"],
+      "text": "Uber India - Product Improvement Case Study: Designed a pre-booking route selection feature addressing commuter price shock from opaque route/toll defaults; authored **complete PRD**, competitive benchmarking, and driver navigation handoff specifications and built a user interactive prototype demonstrating **dual-corridor (fastest vs cheapest)** fare switching."
+    },
+    {
+      "id": "project_cdsco_intel",
+      "default_rank": 2,
+      "title": "CDSCO Intel - Conversational Regulatory Intelligence Platform",
+      "url": "https://cdsco-intel.onrender.com/",
+      "link_label": "Live App",
+      "tags": ["product", "0_to_1", "technical", "prd", "ai", "llm", "genai", "sql", "healthcare", "product_management", "analytics", "platform", "text_to_sql"],
+      "text": "CDSCO Intel - Conversational Regulatory Intelligence Platform: Built a 0-to-1 platform indexing **5,139 official Indian drug clearances** to replace manual SUGAM portal lookups, cutting **research time by ~90%**; architected a hybrid Gemini Text-to-SQL engine with 7 grounding rules, achieving **<58ms median latency** and **100% zero-hallucination accuracy** across 24 therapy areas; shipped one-click Excel/PPT exports with an embedded executive telemetry dashboard."
+    },
+    {
+      "id": "project_smart_speaker",
+      "default_rank": 3,
+      "title": "Smart Speaker Prototype",
+      "tags": ["product", "prototyping", "user_research", "product_management", "roadmap", "hardware", "consumer"],
+      "text": "Smart Speaker Prototype: Conceptualized a smart speaker solution; conducted user research, feature prioritization, and usability testing to validate design decisions and refine the product roadmap for various daily tasks automation."
+    },
+    {
+      "id": "project_self_watering_pot",
+      "default_rank": 4,
+      "title": "Self-Watering Plant Pot Product",
+      "tags": ["product", "prototyping", "user_research", "design_thinking", "product_management", "hardware"],
+      "text": "Self-Watering Plant Pot Product: Applied Design Thinking methodology to solve user pain points for frequent travelers; built low-fidelity prototypes and iteratively refined the product based on user feedback."
+    }
+  ],
+
+  "skills": {
+    "product": [
+      "Product Management",
+      "Product Discovery",
+      "User Research",
+      "MVP Scoping",
+      "Roadmap Prioritization",
+      "Product Requirement Documents (PRDs)",
+      "User Stories",
+      "Product Analytics",
+      "A/B Testing",
+      "Go-to-Market (GTM) Strategy",
+      "Customer Segmentation"
+    ],
+    "technical": [
+      "Python",
+      "SQL",
+      "VBA",
+      "Large Language Model (LLM) APIs",
+      "Retrieval-Augmented Generation (RAG)",
+      "Model Context Protocol (MCP)",
+      "Generative AI",
+      "REST APIs",
+      "Power BI",
+      "Tableau",
+      "Excel"
+    ],
+    "business": [
+      "Market Sizing",
+      "Market Research",
+      "Competitive Intelligence",
+      "Survey Analytics",
+      "Data Analytics",
+      "Stakeholder Management",
+      "Pharmaceutical and Life Sciences Commercial Strategy"
+    ]
+  },
+
+  "leadership": [
+    {
+      "id": "cc_competitions",
+      "text": "Product Case Competitions: National Finalist, XLRI ProDigi 4.0 PM Competition (3,000+); Runner-Up, ProdWhiz'23 (2,000+); National Finalist, GE Healthcare ThinkAloud (7,000+) and Avalon SunTzu (2,700+ teams)."
+    },
+    {
+      "id": "cc_positions",
+      "text": "Leadership: Corporate Partnerships Coordinator, i5 Summit and IRIS, IIM Indore, closing Rs. 30L+ in sponsorships; Board Member, GLA-VIT, leading a 150+ member team; captained school cricket team to 2 district-level titles."
+    }
+  ]
+}

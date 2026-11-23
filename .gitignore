@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Secrets — NEVER commit API keys, OAuth credentials or tokens
+.env
+.env.*
+*.env
+!.env.example
+credentials.json
+credentials.json/
+credential.json
+credential.json/
+token.json
+token*.json
+client_secret*.json
+
+# Local State Databases & Cache
+*.db
+*.sqlite
+*.sqlite3
+copilot_state.db
+
+# LaTeX build artifacts & Resumes
+output/
+output_resumes/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+Resume_*.pdf
+Jaivik_Chauhan_*.pdf
+*.pdf
+
+# External Repositories & Submodules
+dossier_crm/
+
+# Personal Raw Master Resumes
+Resume/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

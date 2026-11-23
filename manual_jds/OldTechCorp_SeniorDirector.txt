@@ -1,0 +1,12 @@
+Company: OldTech Corp
+Role: Senior Director of Supply Chain Logistics
+URL: https://example.com/jobs/123
+
+About OldTech Corp:
+Legacy hardware supply chain distributor for manufacturing components.
+
+Requirements:
+- 12+ years of experience in physical supply chain logistics and warehouse inventory management.
+- Deep expertise in customs clearance, SAP supply chain modules, and physical freight forwarding.
+- Bachelor's degree in Supply Chain or Mechanical Engineering required.
+- 10+ years managing direct teams of warehouse supervisors and freight dispatchers.

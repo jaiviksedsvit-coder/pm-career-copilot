@@ -1,0 +1,28 @@
+Product Manager — Growth & Analytics (B2B SaaS)
+Acme Analytics | Bangalore, India | Full-Time
+
+About Acme Analytics:
+Acme Analytics is an early-stage B2B SaaS startup building a data intelligence platform that helps mid-market enterprises operationalize their data for commercial decision-making. We are Series A, 40-person team, and growing fast.
+
+About the Role:
+We are looking for a Product Manager to own our core analytics product from 0 to 1. You will work directly with the founding team to define the roadmap, ship product, and drive growth. This is a high-ownership role for someone who moves fast, writes excellent PRDs, and can bridge the gap between technical engineering teams and business stakeholders.
+
+What You Will Do:
+- Own the full product lifecycle for our analytics dashboard product — from discovery and user research through to launch and iteration.
+- Write detailed Product Requirement Documents (PRDs) and user stories for engineering sprints.
+- Partner with the data engineering team to define SQL-based data models and KPI frameworks.
+- Conduct user interviews and synthesize qualitative insights to inform roadmap decisions.
+- Define and monitor product KPIs using our internal BI tools (Metabase / Tableau).
+- Identify and size new market opportunities by conducting competitive benchmarking and market research.
+- Drive 0-to-1 feature development for our natural-language querying module powered by LLMs.
+- Work cross-functionally with Sales, Customer Success, and Engineering to build a GTM motion for new enterprise segments.
+
+What We Are Looking For:
+- 1–3 years of experience in product management, strategy consulting, or a technical role.
+- Strong SQL skills — you should be able to write queries to validate hypotheses yourself.
+- Experience with BI tools such as Power BI, Tableau, or Metabase.
+- Demonstrated ability to ship a product from 0 to 1, including scoping an MVP and running a pilot.
+- Experience with LLMs, Generative AI, or RAG-based product development is a strong plus.
+- Excellent written communication — your PRDs should be clear enough that engineering never has to guess.
+- Consulting, analytics, or market research background is a strong plus.
+- MBA from a top-tier institution preferred.
