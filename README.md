@@ -180,7 +180,7 @@ pm-career-copilot/
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pm-career-copilot.git
+git clone https://github.com/jaiviksedsvit-coder/pm-career-copilot.git
 cd pm-career-copilot
 
 # Create and activate a virtual environment
