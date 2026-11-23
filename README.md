@@ -1,6 +1,6 @@
 # 🚀 PM Career Copilot: Autonomous Career Transition Engine
 
-> **A Production-Grade Human-in-the-Loop (HITL) AI System for Hyper-Personalized PM Applications & High-Converting Alumni Referrals at Scale**  
+> **A Human-in-the-Loop (HITL) AI System for Hyper-Personalized PM Applications & High-Converting Alumni Referrals at Scale**  
 > **Candidate & Builder:** [Jaivik Chauhan](https://www.linkedin.com/in/jaivik-chauhan) | MBA (IIM Indore '25) + B.Tech IT (VIT Vellore '23) | Ex-IQVIA Strategy Consulting, Bain & Co. Summer Associate  
 > **Target Roles:** APM, PM-1, Growth PM, Technical PM, Digital PM, Product Operations & Strategy (India)
 
